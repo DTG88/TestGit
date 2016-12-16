@@ -23,3 +23,9 @@ class ViewController: UIViewController {
 
 }
 
+var apples = 500
+print(apples)
+
+var cars = 100
+print(cars)
+
